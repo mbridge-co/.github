@@ -12,9 +12,10 @@ Close #
 
 ## Migrations?
 - [ ] Yes
-- [ ] No
 
 ## Composer install?
 - [ ] Yes
-- [ ] No
+
+## Run npm?
+- [ ] Yes
 
